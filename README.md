@@ -82,6 +82,10 @@ This project helped me learn:
 
 ---
 
+## 👨‍💻 Author
+Parth Kumbhar
+Frontend Developer | Learning Full Stack
+If you liked this project, don’t forget to ⭐ the repo!
 ---
 
 ## 🚀 Run Locally
