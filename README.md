@@ -91,4 +91,4 @@ If you liked this project, don’t forget to ⭐ the repo!
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/your-username/cohort-cursor-clone.git
+git clone https://github.com/developmentwithparth1311/cohort-cursor-clone.git
